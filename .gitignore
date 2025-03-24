@@ -1,0 +1,21 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+env/
+venv/
+
+# Environment variables
+.env
+
+# Mac OS metadata
+.DS_Store
+
+# Model files (optional – only ignore if storing elsewhere)
+*.pt
+
+# Logs and temp files
+*.log
+*.tmp
